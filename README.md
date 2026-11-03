@@ -1,4 +1,5 @@
-# 快手 `.slice` 分片还原说明
+# 快手 `.slice` 直播分片还原
+# 感谢ChatGPT
 
 > 适用范围：本 README 记录对用户提供的 `mhYSCq8gBh4_ShowHevcFhdL3Mgr.slice` 的实际分析与验证结果。它不是快手官方格式规范，也不保证适用于其他来源或版本的 `.slice` 文件。
 >
